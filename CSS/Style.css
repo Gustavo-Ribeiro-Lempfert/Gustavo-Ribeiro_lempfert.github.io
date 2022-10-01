@@ -54,3 +54,12 @@ a::before{
     opacity: 0.8;
     background-color:#fcdf4f ;  
 }
+
+main {
+    display: inline-block;
+    border: 2px solid grey;
+    background-color: grey;
+    box-shadow: 4px 4px black;
+    font-style: 8-BIT WONDER;
+
+}
