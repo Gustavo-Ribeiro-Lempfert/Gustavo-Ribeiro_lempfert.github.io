@@ -1,4 +1,4 @@
-#box{
+.box{
     display: inline-block;
     background-color: grey;
     box-shadow: 10px 10px 0 black;
@@ -7,6 +7,6 @@
     padding: 42px 44px;
 }
 
-#box h1{
+.box h1{
     margin-bottom: 28px;
 }
