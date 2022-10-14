@@ -7,3 +7,7 @@
 .section .main-title{
     margin-bottom: 60px;
 }
+
+.section.-bgblack{
+    background-color: black;
+}
