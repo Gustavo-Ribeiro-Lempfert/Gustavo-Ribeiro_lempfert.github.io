@@ -2,6 +2,7 @@
     background-color: brown;
     padding-top: 50px;
     padding-bottom: 100px;
+    border-bottom: 10px solid #fff;
 }
 
 .section .main-title{
@@ -10,4 +11,16 @@
 
 .section.-bgblack{
     background-color: black;
+}
+
+.section.-bdfirst{
+    border-color: blue;
+}
+
+.section.-bgsecond{
+    background-color: blueviolet;
+}
+
+.section.-bdblack{
+    border-color: black;
 }
