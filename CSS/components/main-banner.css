@@ -19,7 +19,7 @@
     margin-bottom: 40px;
 
 }
-.banner .navigation {
+.main-banner .navigation {
     display: flex;
     justify-content: space-around;
 }
