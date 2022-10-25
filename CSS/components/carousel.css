@@ -20,6 +20,7 @@
 .carousel::before{
     content: '';
     display: block;
+    box-sizing: border-box;
     position: absolute;
     left: 0px;
     border: 3px dashed #000;
@@ -39,4 +40,18 @@
 
 .carousel .button-arrow.-right{
     left: 15px;
+}
+
+.carousel .items{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    overflow: hidden;
+}
+
+.carousel .elements{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    transition: transform 100ms ease-in-out;
 }
